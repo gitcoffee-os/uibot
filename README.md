@@ -48,7 +48,7 @@
 ### 📈 ReportBot
     - 图表、报表引擎助手。
 ### 📊 DataVBot
-    - 数据可视化引擎助手。  
+    - 数据大屏、仪表盘可视化引擎助手。  
 ### 🌐 PageBot
     - 页面设计助手。
 ### 🖨️ PrintBot
@@ -70,7 +70,7 @@ Code generation assistant.
 ### 🚀 FormBot
 Form visualization designer and renderer assistant.
 ### 🎨 CrudBot
-- CRUD add, delete, modify, query, table, search list design assistant.
+CRUD add, delete, modify, query, table, search list design assistant.
 ### 🚁 FlowBot
 Workflow process Engine assistant.
 ### 💎 RuleBot
@@ -78,13 +78,13 @@ Rule Engine Assistant.
 ### 📈 ReportBot
 Chart and report engine assistant.
 ### 📊 DataVBot
-Data visualization Engine assistant.
+Data dashboard, dashboard visualization engine assistant.
 ### 🖨️ PrintBot
 Print design assistant.
 ### ✨ AI
 It can be expanded to integrate AI, making UI visual design, code generation and rule processes more intelligent.
 ### 💡 Ecology
-- Provide support for enhancing the efficiency of content creators and integrating the business ecosystem of developers.
+Provide support for enhancing the efficiency of content creators and integrating the business ecosystem of developers.
 
 ## 👀 试用体验
 - [UiBot UI可视化助手 云端体验](https://uibot.cloud.exmay.com/)
