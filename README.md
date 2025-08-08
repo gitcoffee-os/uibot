@@ -86,7 +86,7 @@ It can be expanded to integrate AI, making UI visual design, code generation and
 ### 💡 Ecology
 Provide support for enhancing the efficiency of content creators and integrating the business ecosystem of developers.
 
-## 👀 试用体验
+## 👀 使用体验
 - [UiBot UI可视化助手 云端体验](https://uibot.cloud.exmay.com/)
 
 ## 📚 技术文档
